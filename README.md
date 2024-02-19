@@ -12,7 +12,6 @@ Author: Pavel Linder
   - [Pre-Requisites](#notebook-pre-requisites)
   - [Development Environment](#nut_and_bolt-development-environment)
   - [File Structure](#file_folder-file-structure)
-- [Results](#camera-results)
 
 ##  :beginner: About
 The topic of the thesis is Out-Of-Distribution (OOD) detection GCxGC data classification.
