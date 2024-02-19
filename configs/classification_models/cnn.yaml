@@ -1,0 +1,7 @@
+  learning_rate : !!float 1e-5
+  n_epochs : 200
+  batch_size : 8
+  dropout_rate : 0.2
+  num_channels : 1
+  num_classes : 70
+  train_subsample_ratio: 1.0
